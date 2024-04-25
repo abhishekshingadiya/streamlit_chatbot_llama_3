@@ -9,7 +9,7 @@ Create .env with ```REPLICATE_API_TOKEN=YOUR_REPLICATE_API_TOKEN```
 Use [chatbot_replicate_llama_3.py](https://github.com/abhishekshingadiya/streamlit_chatbot_llama_3/blob/main/chatbot_replicate_llama_3.py)
 
 ## For Huggingface Inference Endpoints (dedicated) 
-Create .env with ```HF_API_KEY=YOUR_HF_API_KEY```
+Create .env with ```HF_API_URL=YOUR_HF_API_URL``` and ```HF_API_KEY=YOUR_HF_API_KEY```
 
 Use [chatbot_huggingface_llama_3.py](https://github.com/abhishekshingadiya/streamlit_chatbot_llama_3/blob/main/chatbot_huggingface_llama_3.py)
 
