@@ -1,5 +1,6 @@
 # streamlit_llama_3
 streamlit Chatbot app with llama 3 APIs 
+these code coverd llama-3 prompt style for chat: you can check (meta llama 3 guide)[https://llama.meta.com/docs/model-cards-and-prompt-formats/meta-llama-3/#special-tokens-used-with-meta-llama-3]
 
 ## For replicate
 Create .env with ```REPLICATE_API_TOKEN=YOUR_REPLICATE_API_TOKEN```
