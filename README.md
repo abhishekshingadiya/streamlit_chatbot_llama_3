@@ -11,3 +11,4 @@ Create .env with ```HF_API_KEY=YOUR_HF_API_KEY```
 
 Use [chatbot_huggingface_llama_3.py](https://github.com/abhishekshingadiya/streamlit_chatbot_llama_3/blob/main/chatbot_huggingface_llama_3.py)
 
+Note: 🌟 Add a star if my work is helpful for you! 🌟
